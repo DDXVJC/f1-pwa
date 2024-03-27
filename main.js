@@ -1,13 +1,13 @@
 //zmienna slidelist jest tablicą i przechowuje wszystkie slajdy w formie obiektów 
 const slidelist = [
     {
-        img : "./IMG/f1_1.jpg",
+        img : "./IMG/f1.jpg",
         text : "ABU DHABI"
     }, {
-        img : "./IMG/f1_4.jpg",
+        img : "./IMG/f3.jpg",
         text : "MAX VERSTAPPEN"
     }, {
-        img : "./IMG/f1_3.jpg",
+        img : "./IMG/f2.jpg",
         text : "ROBERT KUBICA CALY SWIAT ZACHWYCA"
     }
 ];
